@@ -12,9 +12,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=leozinnh&show_icons=true" />
 </picture>
 
-<picture>
+
   ![snake gif](https://github.com/Leozinnh/Leozinnh/blob/output/github-contribution-grid-snake.gif)
-</picture>
+
 
 
 <div style="display: inline_block"><br>
