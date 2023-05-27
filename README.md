@@ -11,6 +11,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=leozinnh&show_icons=true" />
 </picture>
+https://github-readme-stats.vercel.app/api/top-langs/?username=leozinnh&theme=blue-green
 
 
 <div style="display: inline_block"><br>
