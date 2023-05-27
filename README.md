@@ -13,7 +13,7 @@
 </picture>
 
 <picture>
-https://github-readme-stats.vercel.app/api/top-langs/?username=leozinnh&theme=blue-green
+  ![snake gif](https://github.com/Leozinnh/Leozinnh/blob/output/github-contribution-grid-snake.gif)
 </picture>
 
 
