@@ -22,11 +22,6 @@
   #### 🗄️ Bancos de Dados  
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 
-  #### 🔌 APIs & Integrações  
-  <img src="https://skillicons.dev/icons?i=postman" />  
-  <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-blue?style=for-the-badge" />
-
   #### 🧪 Testes & Build  
   <img src="https://skillicons.dev/icons?i=jest,vite,webpack" />
 
