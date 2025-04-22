@@ -14,19 +14,27 @@
 <div align="center">
 
   #### 🧠 Linguagens  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash" />
 
   #### ⚙️ Frameworks & Bibliotecas  
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,jquery,bootstrap,tailwind,vite" />
-
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,jquery,bootstrap,tailwind,vite,nextjs,astro" />
 
   #### 🗄️ Bancos de Dados  
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+
+  #### 🔌 APIs & Integrações  
+  <img src="https://skillicons.dev/icons?i=postman" />  
+  <img src="https://img.shields.io/badge/REST-API-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-blue?style=for-the-badge" />
+
+  #### 🧪 Testes & Build  
+  <img src="https://skillicons.dev/icons?i=jest,vite,webpack" />
 
   #### 🔧 Ferramentas & DevOps  
-  <img src="https://skillicons.dev/icons?i=git,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode" />
 
 </div>
+
 
 ---
 
