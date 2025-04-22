@@ -11,10 +11,26 @@
 
 ### 🛠️ Tecnologias que uso no dia a dia
 
-<div style="display: inline_block">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,tailwind,js,ts,jquery,vue,php,py,laravel,mysql,mongodb,sqlite,nodejs,react" />
-  </a>
+<div align="center">
+
+  #### 🧠 Linguagens  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py" />
+
+  <br><br>
+
+  #### ⚙️ Frameworks & Bibliotecas  
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,jquery,bootstrap,tailwind,vite" />
+
+  <br><br>
+
+  #### 🗄️ Bancos de Dados  
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+
+  <br><br>
+
+  #### 🔧 Ferramentas & DevOps  
+  <img src="https://skillicons.dev/icons?i=git,docker,figma" />
+
 </div>
 
 ---
