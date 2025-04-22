@@ -3,8 +3,8 @@
 
 <p align="center">
   🔥 Apaixonado por transformar ideias em sistemas reais e funcionais.<br>
-  💻 Trabalho com front-end e back-end, sempre estudando novas techs.<br>
-  🚀 Atualmente em busca de novos desafios para crescer como desenvolvedor.
+  💻 Atuo no front-end e back-end, sempre explorando novas tecnologias.<br>
+  🚀 Em busca de novos desafios para crescer como desenvolvedor e agregar em projetos reais.
 </p>
 
 ---
