@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash" />
 
   #### ⚙️ Frameworks & Bibliotecas  
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,jquery,bootstrap,tailwind,vite,nextjs,astro" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,jquery,bootstrap,tailwind,vite" />
 
   #### 🗄️ Bancos de Dados  
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
