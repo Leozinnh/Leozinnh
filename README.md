@@ -1,79 +1,124 @@
-<h1 align="center">👋 Olá, eu sou o Leonardo Alves</h1>
-<h3 align="center">Desenvolvedor Web Full-Stack · +7 anos de prática</h3>
+<h1 align="center">Leonardo Alves</h1>
+<h3 align="center">Senior Full-Stack Engineer • Arquitetura • Performance • Sistemas Escaláveis</h3>
 
 <p align="center">
-  🔥 Apaixonado por transformar ideias em sistemas reais e funcionais.<br>
-  💻 Atuo no front-end e back-end, sempre explorando novas tecnologias.<br>
-  🚀 Atualmente desenvolvendo plataformas <strong>omnichannel</strong> e sistemas de <strong>call-center escaláveis</strong>.
-</p>
-
-<p align="center">
-  <a href="https://leonardo-alves.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-af/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:leonardoaf65572005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  Construo sistemas robustos, performáticos e prontos para produção.<br>
+  +7 anos desenvolvendo aplicações web completas, APIs e soluções empresariais.
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🧠 Perfil Profissional
 
-- 🏢 Atuando como **Desenvolvedor Full-Stack** em plataformas omnichannel e call-center desde 2023
-- 📱 Desenvolvi apps mobile publicados na [**Google Play**](https://play.google.com/store/apps/details?id=com.leozinnh.aromatizador) e [**App Store**](https://apps.apple.com/br/app/aromatizador/id6751863921)
-- 🤖 Experiência com **IoT**, **Arduino** e automações embarcadas
-- 🌐 Confira meu portfólio completo: [leonardo-alves.com](https://leonardo-alves.com)
+Sou desenvolvedor full-stack com forte foco em **arquitetura de software, organização de código e escalabilidade**.
+
+Tenho experiência sólida em:
+
+- Desenvolvimento de sistemas empresariais (ERP, pedidos, estoque)
+- Construção de APIs RESTful seguras e bem estruturadas
+- Modelagem de banco de dados relacional e NoSQL
+- Autenticação, autorização e controle de permissões
+- Deploy automatizado e ambientes Linux
+- Estruturação de projetos com foco em manutenção a longo prazo
+
+Minha prioridade é sempre: **clareza, performance e previsibilidade em produção**.
 
 ---
 
-### 🛠️ Tecnologias
+## ⚙️ Stack Principal
 
 <div align="center">
 
-#### 🧠 Linguagens
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash" />
+### Linguagens
+<img src="https://skillicons.dev/icons?i=php,js,ts,py,bash" />
 
-#### ⚙️ Frameworks & Bibliotecas
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,laravel,jquery,bootstrap,tailwind,flutter" />
+### Backend
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
 
-#### 🗄️ Bancos de Dados
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,vite" />
 
-#### 🔧 Ferramentas & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode,arduino" />
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+### DevOps & Ambiente
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🏗️ Abordagem Técnica
 
-| Projeto | Descrição | Stack | Status |
-|---|---|---|---|
-| 💬 [MSN Messenger](https://github.com/Leozinnh) | Releitura web do clássico MSN com chat em tempo real | Laravel, Blade | 🔨 Em andamento |
-| 🔐 [leCaptcha](https://github.com/Leozinnh) | Sistema de CAPTCHA com 7 tipos de desafios inteligentes | JS, CSS | 🔨 Em andamento |
-| 🖥️ [Linux Mint no Browser](https://leonardo-alves.com) | Simulação de SO no navegador com janelas e interface real | HTML, CSS, JS | ✅ Concluído |
-| 🤖 [Reconhecimento Facial](https://github.com/Leozinnh) | Detecção de rostos e expressões em tempo real via webcam | Python, JS | ✅ Concluído |
-| 📱 [Aromatizador IoT](https://play.google.com/store/apps/details?id=com.leozinnh.aromatizador) | App mobile para controle de aromatizador via Bluetooth/Wi-Fi | Flutter, Arduino | ✅ Publicado |
-| 🏦 [Banco Virtual](https://github.com/Leozinnh) | Simulação de banco digital com transferências e extrato | Laravel, MySQL | ⏸️ Pausado |
+✔️ Separação clara de camadas  
+✔️ Padrões de projeto quando agregam valor  
+✔️ Código legível e orientado à manutenção  
+✔️ APIs bem documentadas  
+✔️ Foco em performance e redução de gargalos  
+✔️ Automatização de deploy e rotinas operacionais  
+
+Evito complexidade desnecessária. Prefiro soluções simples, escaláveis e previsíveis.
 
 ---
 
-### 📈 Estatísticas GitHub
+## 🚀 Projetos Relevantes
+
+### 🔹 Mini ERP (Laravel)
+Sistema completo com:
+- Gestão de produtos, pedidos e estoque
+- Cupons e regras de desconto
+- Integração com API de CEP
+- Webhook para atualização de status
+- Estrutura preparada para API pública
+
+---
+
+### 🔹 Sistema de Comunicação WebRTC
+Aplicação para comunicação de voz em tempo real entre navegadores, com foco em baixa latência e simplicidade operacional.
+
+---
+
+### 🔹 Assistente Virtual em Python
+Sistema com hotword personalizada e processamento de comandos de voz.
+
+---
+
+### 🔹 Script de Deploy Automatizado
+Automação via SSH com:
+- Atualização de repositório
+- Execução de migrations
+- Controle de permissões
+- Segurança e validações
+
+---
+
+## 📈 Métricas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leozinnh&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinnh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leozinnh&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinnh&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leozinnh/Leozinnh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leozinnh/Leozinnh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leozinnh/Leozinnh/output/pacman-contribution-graph.svg">
-</picture>
+## 🎯 Interesses Técnicos
+
+- Arquitetura limpa
+- Engenharia de prompt e IA aplicada
+- Sistemas distribuídos
+- Performance backend
+- Automação e infraestrutura
+
+---
+
+## 🌎 Contato
+
+📧 leonardoaf65572005@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/leonardo-af/  
+🌐 Portfólio: https://leonardo-alves.com  
+
+---
+
+<p align="center">
+  Sempre aberto a desafios técnicos interessantes e projetos bem estruturados.
+</p>
