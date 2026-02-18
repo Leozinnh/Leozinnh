@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Leonardo Alves</h1>
-<h3 align="center">Desenvolvedor Web Full-Stack · +6 anos de prática</h3>
+<h3 align="center">Desenvolvedor Web Full-Stack · +7 anos de prática</h3>
 
 <p align="center">
   🔥 Apaixonado por transformar ideias em sistemas reais e funcionais.<br>
@@ -61,14 +61,14 @@
 | 🔐 [leCaptcha](https://github.com/Leozinnh) | Sistema de CAPTCHA com 7 tipos de desafios inteligentes | JS, CSS | ⏸️ Pausado |
 | 🏦 [Banco Virtual](https://github.com/Leozinnh) | Simulação de banco digital com transferências e extrato | Laravel, MySQL | ⏸️ Pausado |
 
----
+<!-- ---
 
 ### 📈 Estatísticas GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leozinnh&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinnh&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
